@@ -1,4 +1,5 @@
-# Chip-Eight
+# <h1 style="text-align:center;">CHIP-EIGHT</h1>
+
 
 A lightweight, accurate CHIP-8 interpreter written in C using SDL2 for graphics, audio, and input handling.
 
@@ -63,4 +64,12 @@ It uses the standard QWERTY layout:
     cd build
     ./chip8c <path-to-rom>
 ```
-> You can also run the pre-compiled exe in /bin
+> You can also run the pre-compiled exe in `bin\`
+
+## Credits
+Thanks to the following sources for helping me in building this :
+1. [Queso Fuego Playlist](https://www.youtube.com/playlist?list=PLT7NbkyNWaqbyBMzdySdqjnfUFxt8rnU_)
+2. [Chip8 Wiki](https://en.wikipedia.org/wiki/CHIP-8)
+3. [Guide to making Chip8 Emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
+
+> Thanks for visiting this Repo!
